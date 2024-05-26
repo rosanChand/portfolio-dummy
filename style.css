@@ -624,5 +624,8 @@ p {
     height: 30px;
     width: 35px;
   }
+  .container-about .info-des>p{
+    text-align: justify;
+  }
 
 }
